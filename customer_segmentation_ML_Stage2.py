@@ -2,11 +2,8 @@
 # ML STAGE 2 — Customer Segmentation Using Clustering
 # Student: Mohammed Saad  |  ID: F20230214
 # Dataset: Mall Customers Dataset
-# GitHub: https://github.com/MohammedSaad-ML/CustomerSegmentation-ML
 # ============================================================
 
-# ── 0. Install dependencies (run this cell in Google Colab) ──────────────
-# !pip install scikit-learn pandas numpy matplotlib seaborn
 
 # ── 1. Imports ───────────────────────────────────────────────────────────
 import numpy as np
@@ -572,4 +569,4 @@ GitHub  : https://github.com/MohammedSaad-ML/CustomerSegmentation-ML
   09_cluster_sizes.png        Cluster Size Bar Chart
 """)
 
-print("All done! Upload this script and the PNG files to your GitHub repo.")
+
